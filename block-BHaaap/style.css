@@ -1,0 +1,25 @@
+img{ 
+    border-radius: 20px;
+}
+.circle{
+    height: 25px;
+    width: 25px;
+    background-color: red;
+    border-radius: 100%;
+    display: inline-block;
+}
+h1{
+    background-color: #D18C1D;
+    border: 1px solid red;
+    padding: 10px;
+}
+p{
+    height: 600px;
+    width: 400px;
+    background-color: #D1D631;
+    border: 2px dotted ;
+}
+.footer{
+    background-color: #A1A1A1;
+    border-bottom: 3px dashed BLUE;
+}
